@@ -1,4 +1,4 @@
-# Export-Filtered-SourceCode-And-Config-Files-Recursively-With-Content
+# Full Source Dump
 
 Recursively exports source code, scripts, and configuration files with their contents
 
